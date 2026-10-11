@@ -34,7 +34,7 @@ C:\Users\YourName\Desktop\TestApp.exe
 ```
 
 Replace `YourName` and `TestApp.exe` with the actual Windows username and executable filename.<img width="997" height="598" alt="image" src="https://github.com/user-attachments/assets/038ad49c-7488-40ca-a130-a98f89bcce5e" />
-<img width="997" height="598" alt="image" src="https://github.com/user-attachments/assets/e1ef7e66-3d16-482f-be90-6c18af6a8bf1" />
+
 
 
 ### Method 2: Keep the files in the same folder
