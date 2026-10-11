@@ -74,3 +74,14 @@ v<img width="927" height="650" alt="image" src="https://github.com/user-attachme
 ## Disclaimer
 
 This project is intended for educational purposes and authorized security testing. It is not affiliated with or endorsed by Microsoft Corporation.
+Important Notice About Reverse Engineering
+
+Please do not use IDA, IDA Pro, or similar reverse-engineering tools to inspect or analyze this executable.
+
+The executable is distributed for educational purposes only.
+
+If you need to understand how the project works, request the source code from the author.
+
+If you encounter any issues or need clarification, contact the author.
+
+Note: This notice expresses the author's request. It does not technically prevent reverse engineering or guarantee that the executable's code cannot be inspected.
